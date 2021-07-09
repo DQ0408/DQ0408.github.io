@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="dq.jpg">
 
-Hi! I am Qian Dong(董骞), a second-year graduate student of [ISCAS](http://www.iscas.ac.cn/).
+Hi! I am Qian Dong(董骞), a second-year graduate student of [ISCAS](http://www.iscas.ac.cn/), under the supervision of [Prof.Shuzi Niu](https://szniunlp.github.io/).
 
 ## Research Interest
 
