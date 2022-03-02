@@ -10,7 +10,7 @@ Hi! I am Qian Dong(董骞), a second-year graduate student of [ISCAS](http://www
 
 ## Research Interest
 
-My research interest is natural language processing -> information retrieval. Here is my [google scholar](https://scholar.google.com/citations?user=m88SZGgAAAAJ&hl=en).
+My research interest is natural language processing -> information retrieval.
 
 ## Publications
 
