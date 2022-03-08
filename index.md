@@ -14,7 +14,7 @@ My research interest is natural language processing -> information retrieval.
 
 ## Publications
 
-1. **Qian Dong**, Shuzi Niu: **Legal Judgment Prediction via Relational Learning**, *The 44th International ACM SIGIR Conference
+1. **Qian Dong**, Shuzi Niu: [**Legal Judgment Prediction via Relational Learning**](https://github.com/DQ0408/DQ0408.github.io/blob/main/paper/LJP.pdf), *The 44th International ACM SIGIR Conference
 on Research and Development in Information Retrieval (SIGIR2021).*
 2. **Qian Dong**, Shuzi Niu: **Latent Graph Recurrent Network for Document Ranking**, *The 26th International Conference on Database Systems for Advanced Applications (DASFAA2021).*
 3. **Qian Dong**, Shuzi Niu, Yucheng Li: **Disentangled Graph Recurrent Network for Document Ranking**, *DASFAA2021 Special Issue.*
