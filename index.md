@@ -16,9 +16,9 @@ My research interest is natural language processing -> information retrieval.
 
 1. **Qian Dong**, Shuzi Niu: [**Legal Judgment Prediction via Relational Learning**](https://github.com/DQ0408/DQ0408.github.io/blob/main/paper/LJP.pdf), *The 44th International ACM SIGIR Conference
 on Research and Development in Information Retrieval (SIGIR2021).*
-2. **Qian Dong**, Shuzi Niu: **Latent Graph Recurrent Network for Document Ranking**, *The 26th International Conference on Database Systems for Advanced Applications (DASFAA2021).*
-3. **Qian Dong**, Shuzi Niu, Yucheng Li: **Disentangled Graph Recurrent Network for Document Ranking**, *DASFAA2021 Special Issue.*
-4. Zhijuan Shen, Jun Cheng, Xiping Hu, **Qian Dong**: **Emotion recognition based on multi-view body gestures**, *The 26th IEEE International Conference on Image Processing (ICIP2019).*
+2. **Qian Dong**, Shuzi Niu: [**Latent Graph Recurrent Network for Document Ranking**](https://github.com/DQ0408/DQ0408.github.io/blob/main/paper/LGRe.pdf), *The 26th International Conference on Database Systems for Advanced Applications (DASFAA2021).*
+3. **Qian Dong**, Shuzi Niu, Yucheng Li: [**Disentangled Graph Recurrent Network for Document Ranking**](https://github.com/DQ0408/DQ0408.github.io/blob/main/paper/DGRe.pdf), *DASFAA2021 Special Issue.*
+4. Zhijuan Shen, Jun Cheng, Xiping Hu, **Qian Dong**: [**Emotion recognition based on multi-view body gestures**](https://github.com/DQ0408/DQ0408.github.io/blob/main/paper/MBGD.pdf), *The 26th IEEE International Conference on Image Processing (ICIP2019).*
 
 <!--
 ## Typography
